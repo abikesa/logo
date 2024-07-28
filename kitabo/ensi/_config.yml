@@ -65,5 +65,5 @@ sphinx:
     bibtex_reference_order: 'citation' 
     bibtex_default_style: 'unsrt' # 'plain' 
     bibtex_reference_style: 'label' # 'author_year'  
-    bibtex_cite_style: 'numeric'
+    bibtex_cite_style: 'super' #'numeric'
     bibtex_footbibliography_header: ''
